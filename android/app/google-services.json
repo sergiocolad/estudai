@@ -12,7 +12,20 @@
           "package_name": "com.estudai"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "627666588793-mbvvc3rqi13she11nk6tbolksdjgea4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estudai",
+            "certificate_hash": "5fe297be661ed2d68e1cdf2a54ff5f8695f17772"
+          }
+        },
+        {
+          "client_id": "627666588793-6c964g40sccgjvue1f00d0jm2bbitsrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCcPRmoqYT4XInF-sO7OIUzxAOVx89oL2Y"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627666588793-6c964g40sccgjvue1f00d0jm2bbitsrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
