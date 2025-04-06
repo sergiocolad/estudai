@@ -110,3 +110,4 @@ flutter_native_splash:
   image: assets/images/estudai_logo.png
   android: true
   ios: true
+  fullscreen: true
